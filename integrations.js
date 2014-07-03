@@ -8,6 +8,7 @@ module.exports = [
   require('./lib/adwords'),
   require('./lib/alexa'),
   require('./lib/amplitude'),
+  require('./lib/attribution'),
   require('./lib/appcues'),
   require('./lib/awesm'),
   require('./lib/awesomatic'),
